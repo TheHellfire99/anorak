@@ -216,8 +216,7 @@ body {
     }
 }
 
-canvas {
-    background: #eee;
+.gif {
     position: relative;
     left: 50%;
     top: 50%;
